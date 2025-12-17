@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pierre\\Documents\\crossy-road\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|c:\\users\\pierre\\documents\\crossy-road\\entities\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|solutionrelative:entities\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|c:\\users\\pierre\\documents\\crossy-road\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|c:\\users\\pierre\\documents\\crossy-road\\coinlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|solutionrelative:coinlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|c:\\users\\pierre\\documents\\crossy-road\\entities\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|solutionrelative:entities\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|c:\\users\\pierre\\documents\\crossy-road\\scorelabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|solutionrelative:scorelabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|c:\\users\\pierre\\documents\\crossy-road\\replaybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|solutionrelative:replaybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|c:\\users\\pierre\\documents\\crossy-road\\chunks\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|solutionrelative:chunks\\chunk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|c:\\users\\pierre\\documents\\crossy-road\\chunks\\trainspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|solutionrelative:chunks\\trainspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|c:\\users\\pierre\\documents\\crossy-road\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|solutionrelative:start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pierre\\Documents\\crossy-road\\Train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|c:\\users\\pierre\\documents\\crossy-road\\entities\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|solutionrelative:entities\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|c:\\users\\pierre\\documents\\crossy-road\\entities\\scripts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|solutionrelative:entities\\scripts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|c:\\users\\pierre\\documents\\crossy-road\\loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|solutionrelative:loadingscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|c:\\users\\pierre\\documents\\crossy-road\\camera3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81699BEE-52A3-4034-A012-AB41FA0B3D78}|Crossy Road.csproj|solutionrelative:camera3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReplayButton.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\ReplayButton.cs",
+              "RelativeDocumentMoniker": "ReplayButton.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\ReplayButton.cs",
+              "RelativeToolTip": "ReplayButton.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:50:02.493Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoadingScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\LoadingScreen.cs",
+              "RelativeDocumentMoniker": "LoadingScreen.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\LoadingScreen.cs",
+              "RelativeToolTip": "LoadingScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T14:58:04.978Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreLabel.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\ScoreLabel.cs",
+              "RelativeDocumentMoniker": "ScoreLabel.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\ScoreLabel.cs",
+              "RelativeToolTip": "ScoreLabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:56:06.641Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Camera3d.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\Camera3d.cs",
+              "RelativeDocumentMoniker": "Camera3d.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\Camera3d.cs",
+              "RelativeToolTip": "Camera3d.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:55:50.62Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoinLabel.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\CoinLabel.cs",
+              "RelativeDocumentMoniker": "CoinLabel.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\CoinLabel.cs",
+              "RelativeToolTip": "CoinLabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:06:07.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\entities\\scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "entities\\scripts\\Coin.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\entities\\scripts\\Coin.cs",
+              "RelativeToolTip": "entities\\scripts\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:03:45.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chunk.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\chunks\\Chunk.cs",
+              "RelativeDocumentMoniker": "chunks\\Chunk.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\chunks\\Chunk.cs",
+              "RelativeToolTip": "chunks\\Chunk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:30:41.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:38:52.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Start.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\Start.cs",
+              "RelativeDocumentMoniker": "Start.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\Start.cs",
+              "RelativeToolTip": "Start.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:21:26.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrainSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\chunks\\TrainSpawner.cs",
+              "RelativeDocumentMoniker": "chunks\\TrainSpawner.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\chunks\\TrainSpawner.cs",
+              "RelativeToolTip": "chunks\\TrainSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:51:10.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Train.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\Train.cs",
+              "RelativeDocumentMoniker": "Train.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\Train.cs",
+              "RelativeToolTip": "Train.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:19:45.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\entities\\scripts\\Player.cs",
+              "RelativeDocumentMoniker": "entities\\scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\entities\\scripts\\Player.cs",
+              "RelativeToolTip": "entities\\scripts\\Player.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:38:13.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\entities\\scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "entities\\scripts\\Spawner.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\entities\\scripts\\Spawner.cs",
+              "RelativeToolTip": "entities\\scripts\\Spawner.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:47:31.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Pierre\\Documents\\crossy-road\\entities\\scripts\\Car.cs",
+              "RelativeDocumentMoniker": "entities\\scripts\\Car.cs",
+              "ToolTip": "C:\\Users\\Pierre\\Documents\\crossy-road\\entities\\scripts\\Car.cs",
+              "RelativeToolTip": "entities\\scripts\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:36:09.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

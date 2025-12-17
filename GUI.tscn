@@ -1,0 +1,78 @@
+[gd_scene load_steps=11 format=3 uid="uid://d7k3f4k6xgf2"]
+
+[ext_resource type="Texture2D" uid="uid://dco2xxhj3b5xb" path="res://ReplayButton.png" id="1_k1pai"]
+[ext_resource type="Script" uid="uid://bydr4fvna8dv7" path="res://ReplayButton.cs" id="1_q7530"]
+[ext_resource type="Script" uid="uid://m178r6kkyjs1" path="res://ScoreLabel.cs" id="2_0v7bq"]
+[ext_resource type="FontFile" uid="uid://dja0px2tr10vt" path="res://8-BIT WONDER.TTF" id="3_b741m"]
+[ext_resource type="Script" uid="uid://bahh6g2drifc6" path="res://Start.cs" id="3_l1do4"]
+[ext_resource type="Texture2D" uid="uid://chm1mro6rcwiv" path="res://coin.png" id="5_8vf7g"]
+[ext_resource type="Script" uid="uid://bncbmta6rvdy" path="res://CoinLabel.cs" id="6_y7wfm"]
+[ext_resource type="Texture2D" uid="uid://wsdoylvkrf5e" path="res://playButton.png" id="7_75o6k"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_q7530"]
+font = ExtResource("3_b741m")
+font_size = 105
+outline_size = 10
+shadow_size = 41
+shadow_color = Color(0, 0, 0, 1)
+shadow_offset = Vector2(2.47, 2.62)
+
+[sub_resource type="LabelSettings" id="LabelSettings_8vf7g"]
+font = ExtResource("3_b741m")
+font_size = 36
+shadow_size = 15
+shadow_color = Color(0, 0, 0, 1)
+shadow_offset = Vector2(2.135, 1.945)
+
+[node name="Gui" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="ReplayButton" type="TextureButton" parent="."]
+visible = false
+layout_mode = 0
+offset_left = 526.0
+offset_top = 290.0
+offset_right = 698.0
+offset_bottom = 433.0
+texture_normal = ExtResource("1_k1pai")
+stretch_mode = 0
+script = ExtResource("1_q7530")
+
+[node name="Score" type="Label" parent="."]
+layout_mode = 0
+offset_left = 576.0
+offset_top = 4.0
+offset_right = 636.0
+offset_bottom = 148.0
+text = "0"
+label_settings = SubResource("LabelSettings_q7530")
+script = ExtResource("2_0v7bq")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 0
+offset_left = 21.0
+offset_top = 17.0
+offset_right = 72.0
+offset_bottom = 69.0
+texture = ExtResource("5_8vf7g")
+expand_mode = 1
+
+[node name="CoinLabel" type="Label" parent="."]
+layout_mode = 0
+offset_left = 94.0
+offset_top = 17.0
+offset_right = 146.0
+offset_bottom = 75.0
+text = "0"
+label_settings = SubResource("LabelSettings_8vf7g")
+script = ExtResource("6_y7wfm")
+
+[node name="Start" type="TextureRect" parent="."]
+layout_mode = 0
+offset_left = 524.0
+offset_top = 279.0
+offset_right = 699.0
+offset_bottom = 432.0
+texture = ExtResource("7_75o6k")
+script = ExtResource("3_l1do4")
